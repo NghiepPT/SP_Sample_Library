@@ -1,0 +1,16 @@
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\bin\Debug\SP_Sample_Library.exe.config
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\bin\Debug\SP_Sample_Library.exe
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\bin\Debug\SP_Sample_Library.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\bin\Debug\SPSwrapApi.dll
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\bin\Debug\SPSwrapApi.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\MainWindow.g.cs
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\App.g.cs
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\SP_Sample_Library_MarkupCompile.cache
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\SP_Sample_Library_MarkupCompile.lref
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\MainWindow.baml
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\SP_Sample_Library.g.resources
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\SP_Sample_Library.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\SP_Library_Sample.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\SP_Sample_Library.exe
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\SP_Sample_Library.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SP_Sample_Library\obj\Debug\SP_Library_Sample.csprojResolveAssemblyReference.cache

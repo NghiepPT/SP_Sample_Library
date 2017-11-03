@@ -1,0 +1,28 @@
+﻿<Window x:Name="SharePoint_Sample" x:Class="SP_Sample_Library.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SP_Sample_Library"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="365.332" Width="525">
+    <Grid Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="322*"/>
+            <ColumnDefinition Width="127*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="Server:" HorizontalAlignment="Left" Margin="0,43,0,0" VerticalAlignment="Top" FontSize="14" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <TextBox x:Name="txtServer" HorizontalAlignment="Left" Height="28" Margin="59,43,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="341" FontSize="16" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="label1" Content="User:" HorizontalAlignment="Left" Margin="0,89,0,0" VerticalAlignment="Top" FontSize="14" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <TextBox x:Name="txtUserName" HorizontalAlignment="Left" Height="28" Margin="59,89,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="341" FontSize="14" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="label2" Content="Password:" HorizontalAlignment="Left" Margin="2,138,0,0" VerticalAlignment="Top" Width="81" FontSize="14" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <ComboBox x:Name="cmbSites" HorizontalAlignment="Left" Margin="59,180,0,0" VerticalAlignment="Top" Width="341" Height="28" SelectionChanged="cmbSites_SelectionChanged" Drop="cmbSites_Drop" DropDownOpened="cmbSites_DropDownOpened" FontSize="14" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="label3" Content="Site:" HorizontalAlignment="Left" Margin="1,186,0,0" VerticalAlignment="Top" FontSize="14" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Label x:Name="label4" Content="Library" HorizontalAlignment="Left" Margin="1,227,0,0" VerticalAlignment="Top" FontSize="14" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <ComboBox x:Name="cmbLibrary" HorizontalAlignment="Left" Margin="59,227,0,0" VerticalAlignment="Top" Height="28" Width="341" DropDownOpened="cmbLibrary_DropDownOpened" FontSize="14" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <PasswordBox x:Name="password" HorizontalAlignment="Left" Margin="59,133,0,0" VerticalAlignment="Top" Width="341" Height="28" FontSize="14" Grid.Column="2" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

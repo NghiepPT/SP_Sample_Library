@@ -1,0 +1,8 @@
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\bin\Release\SPSwrapApi.dll.config
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\bin\Release\SPSwrapApi.dll
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\bin\Release\SPSwrapApi.XmlSerializers.dll
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\bin\Release\SPSwrapApi.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\obj\Release\SPSwrapApi.dll
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\obj\Release\SPSwrapApi.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\obj\Release\SPSwrapApi.XmlSerializers.dll
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\obj\Release\SPSwrapApi.csprojResolveAssemblyReference.cache

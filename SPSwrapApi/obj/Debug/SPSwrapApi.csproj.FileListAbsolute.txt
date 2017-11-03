@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\bin\Debug\SPSwrapApi.dll.config
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\bin\Debug\SPSwrapApi.dll
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\bin\Debug\SPSwrapApi.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\obj\Debug\SPSwrapApi.dll
+C:\Users\USER\documents\visual studio 2015\Projects\SP_Sample_Library\SPSwrapApi\obj\Debug\SPSwrapApi.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\SP_Sample_Library\SPSwrapApi\obj\Debug\SPSwrapApi.csprojResolveAssemblyReference.cache

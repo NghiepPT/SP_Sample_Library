@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SPSwrapApi.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SPSwrapApi_Authentication_Authentication" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sharepoint2013/_vti_bin/authentication.asmx</Value>
+    </Setting>
+    <Setting Name="SPSwrapApi_Sites_Sites" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sharepoint2013/_vti_bin/sites.asmx</Value>
+    </Setting>
+    <Setting Name="SPSwrapApi_Lists_Lists" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sharepoint2013/_vti_bin/lists.asmx</Value>
+    </Setting>
+    <Setting Name="SPSwrapApi_Webs_Webs" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sharepoint2013/_vti_bin/webs.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
